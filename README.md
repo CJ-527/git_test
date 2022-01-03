@@ -1,3 +1,2 @@
 # git_test
-My First Git-Hub repo
-Hello World
+my first repository and my first web page, I await your constructive criticism to continue learning.
